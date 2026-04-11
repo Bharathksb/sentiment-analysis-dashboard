@@ -56,16 +56,16 @@ React.js frontend and Java Spring Boot backend.
 ![login](https://github.com/Bharathksb/sentiment-analysis-dashboard/blob/main/Screen%20Shots/login%20page.png)
 
 ### 📝 Register Page
-![register](screenshots/register.png)
+![register](https://github.com/Bharathksb/sentiment-analysis-dashboard/blob/main/Screen%20Shots/Register%20.png)
 
 ### 📊 Dashboard View 1
-![dashboard1](screenshots/dashboard1.png)
+![dashboard1](https://github.com/Bharathksb/sentiment-analysis-dashboard/blob/main/Screen%20Shots/Dash%20Board1.png)
 
 ### 📊 Dashboard View 2
-![dashboard2](screenshots/dashboard2.png)
+![dashboard2](https://github.com/Bharathksb/sentiment-analysis-dashboard/blob/main/Screen%20Shots/in%20DashBoard%202.png)
 
 ### 📈 Charts and Statistics
-![charts](screenshots/dashboard3.png)
+![charts](https://github.com/Bharathksb/sentiment-analysis-dashboard/blob/main/Screen%20Shots/in%20DashBoard3.png)
 
 
 ---
