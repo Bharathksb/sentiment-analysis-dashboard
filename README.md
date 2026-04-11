@@ -4,7 +4,7 @@ A full-stack web application that analyzes text sentiment
 as **Positive**, **Negative**, or **Neutral** using 
 React.js frontend and Java Spring Boot backend.
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](https://github.com/Bharathksb/sentiment-analysis-dashboard/blob/main/Screen%20Shots/Dash%20Board1.png)
 
 ---
 
