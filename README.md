@@ -53,7 +53,7 @@ React.js frontend and Java Spring Boot backend.
 
 ## 📸 Screenshots
 ### 🔐 Login Page
-![login](screenshots/login.png)
+![login](https://github.com/Bharathksb/sentiment-analysis-dashboard/blob/main/Screen%20Shots/login%20page.png)
 
 ### 📝 Register Page
 ![register](screenshots/register.png)
