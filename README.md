@@ -194,9 +194,9 @@ disappointing, failure, pathetic)
 **Bharath KS**
 - 🎓 BE Computer Science — 2023
 - 💼 Looking for Full Stack Developer roles
-- 📧 your.email@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/yourprofile
-- 🐙 GitHub: github.com/yourusername
+- 📧 bharathks98408@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/ks-bharath/
+- 🐙 GitHub: https://github.com/Bharathksb
 
 ---
 
