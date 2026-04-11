@@ -53,19 +53,19 @@ React.js frontend and Java Spring Boot backend.
 
 ## 📸 Screenshots
 ### 🔐 Login Page
-![Login](screenshots/login%20page.png)
+![Login](screenshots/login.png)
 
 ### 📝 Register Page
-![Register](screenshots/Register%20.png)
+![Register](screenshots/register.png)
 
 ### 📊 Dashboard View 1
-![Dashboard1](screenshots/DashBoard1.png)
+![Dashboard1](screenshots/dashboard1.png)
 
 ### 📊 Dashboard View 2
-![Dashboard2](screenshots/DashBoard%202.png)
+![Dashboard2](screenshots/dashboard2.png)
 
 ### 📈 Charts and Statistics
-![Dashboard3](screenshots/DashBoard3.png)
+![Charts](screenshots/dashboard3.png)
 
 
 ---
