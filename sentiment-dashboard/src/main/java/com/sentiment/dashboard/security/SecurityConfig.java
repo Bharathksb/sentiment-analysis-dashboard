@@ -82,7 +82,8 @@ public class SecurityConfig {
                 "http://localhost:5177",
                 "http://localhost:5178",
                 "http://localhost:5179",
-                "http://localhost:5180"
+                "http://localhost:5180",
+                "https://sentiment-analysis-dashboard.vercel.app"
         ));
         configuration.setAllowedMethods(
                 Arrays.asList("GET", "POST", "PUT",
@@ -94,4 +95,4 @@ public class SecurityConfig {
         source.registerCorsConfiguration("/**", configuration);
         return source;
     }
-}
+    }
